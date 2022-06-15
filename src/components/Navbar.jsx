@@ -178,11 +178,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className='hidden lg:flex fixed flex-col top-[35%] right-0'>
-      {/* {isScrolling ? 'Scrolling' : 'Not scrolling'} */}
       {isScrolling ? (isScrollingUp ? '' : <img className='w-[180px] mx-auto' src={Scroll} alt="HTML icon" />) : ''}
-      {/* {isScrollingUp && <img className='w-[180px] mx-auto' src={NoScroll} alt="HTML icon" />}
-      {isScrollingDown && <img className='w-[180px] mx-auto' src={GIF} alt="HTML icon" />} */}
-        
       </div>
     </div>
   );
