@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a08b3155.css",
-    "main.js": "/static/js/main.261e8321.js",
+    "main.js": "/static/js/main.7178a07d.js",
     "static/js/937.c387c23b.chunk.js": "/static/js/937.c387c23b.chunk.js",
     "static/media/esms.PNG": "/static/media/esms.0b13cffd654c6605a97a.PNG",
     "static/media/down.gif": "/static/media/down.25e70798b451b162493a.gif",
@@ -9,7 +9,7 @@
     "static/media/ceedbs.PNG": "/static/media/ceedbs.2457e1e2153fc26afa0a.PNG",
     "static/media/php.png": "/static/media/php.c12887b98d2a573fc498.png",
     "static/media/mysql.png": "/static/media/mysql.7929b93827030cc071c5.png",
-    "static/media/RAFAEL_FERNANDEZ.pdf": "/static/media/RAFAEL_FERNANDEZ.ebeb20bb8c03ea3c9cf3.pdf",
+    "static/media/RAFAEL_FERNANDEZ.pdf": "/static/media/RAFAEL_FERNANDEZ.06a16ce672221995482d.pdf",
     "static/media/csharp.png": "/static/media/csharp.324287af23c2b6ad522c.png",
     "static/media/laravel.png": "/static/media/laravel.8b2939ca7ad8851c40a2.png",
     "static/media/boot.jpg": "/static/media/boot.6703d1fd178d5d9d56ce.jpg",
@@ -19,11 +19,11 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.a08b3155.css.map": "/static/css/main.a08b3155.css.map",
-    "main.261e8321.js.map": "/static/js/main.261e8321.js.map",
+    "main.7178a07d.js.map": "/static/js/main.7178a07d.js.map",
     "937.c387c23b.chunk.js.map": "/static/js/937.c387c23b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a08b3155.css",
-    "static/js/main.261e8321.js"
+    "static/js/main.7178a07d.js"
   ]
 }
